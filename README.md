@@ -10,7 +10,7 @@
       <br>
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Puto+el+que+lo+lea.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Helloworld">
       <br>
       <b>
         ~ Triple R ~
